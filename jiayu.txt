@@ -1,4 +1,4 @@
 echo jiayu
 add a branch as dev
 this a new dev branch
-pull something to remote dev AND
+pull something to remote dev And
